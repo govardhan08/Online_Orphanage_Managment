@@ -1,4 +1,6 @@
 Orphanage Management System
+
+
 The Orphanage Management System is designed to streamline the management and operations of orphanages, ensuring the well-being and development of orphaned or abandoned children. It aims to achieve the following objectives:
 
 Child Management: Maintain comprehensive profiles of children, including personal information, medical records, and educational history, to provide personalized care and monitor their progress.
